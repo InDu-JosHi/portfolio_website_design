@@ -1,0 +1,181 @@
+.body{
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+.first{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px 60px;
+}
+.dez{
+   height: 30px;
+   width: 100px;
+}
+.nav{
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+    margin-left: 40px;
+}
+.nav:hover{
+    color: purple;
+}
+.second{
+    text-align: center;
+    margin: 150px 40px 0px 40px;
+}
+.second p{
+    font-size: 56px;
+}
+.second i{
+    font-size: 20px;
+    margin-top: 100px;
+}
+.second i:hover {
+font-size: 22px;
+font-weight: bold;
+
+}
+.second span{
+    color: grey;
+    font-weight: 100;
+}
+.p1{
+    font-size: 40px;
+    margin: 60px;
+}
+.p1 span{
+    color: gray;
+    font-weight: 100;
+}
+.icons{
+    text-align: center;
+    margin: 20px 20px 60px 0px ;
+    font-size: 80px;
+    color: grey;
+    font-weight: bold;
+}
+.ic{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.third{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 60px;
+}
+.sec {
+    font-size: 40px;
+    margin: 60px 50px;
+
+}
+.sec span{
+    color: grey;
+    font-weight: 100;
+    letter-spacing: 1px;
+    text-align: left;
+    
+}
+.forth{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 60px;
+}
+.fifth{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 60px;
+}
+.sixth{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 60px;
+}
+.seventh{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 100px 60px;
+}
+.abt{
+    font-size: 24px;
+}
+.ia{
+    margin-right: -60px;
+}
+.ib{
+    margin-bottom: 45px;
+}
+.img{
+    width: 55w0px;
+    height: 450px;
+}
+.d{
+font-size: 32px;
+}
+.span{
+    color: grey;
+    font-weight: 100;
+}
+.ok{
+    margin-left: 50px;
+}
+.cls{
+font-size: 18px;
+color: grey;
+}
+.btn{
+    color: gray;
+    border: 1px solid gray;
+    background-color: transparent;
+    border-radius: 20px;
+    padding: 8px 25px;
+    margin: 10px 0px;
+    letter-spacing: 1px;
+}
+.btn:hover{
+    color: #E3E4E6;
+    background-color: rgb(199, 60, 192);
+    box-shadow: 0px 5px 8px 0px rgb(90, 4, 90);
+}
+.last{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.get{
+    font-size: 56px;
+    margin: 0%;
+}
+.get span{
+    color: gray;
+    font-weight: 100;
+    
+}
+.lst{
+    font-size: 18px;
+    color: grey;
+}
+.s2{
+    color: white;
+}
+.s1{
+    margin-left: 20px;
+    color: gray;
+}
+.icon{
+    font-size: 30px;
+    color: grey;
+    margin: 25px 35px;
+}
+.icon:hover{
+    color: purple;
+}
